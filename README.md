@@ -4,6 +4,4 @@ Interacting with the cards is intuitive and engaging. A double tap flips a card 
 
 Screenshots of the App are attached below
 <img width="337" alt="Screenshot 2025-03-07 at 3 33 17 AM" src="https://github.com/user-attachments/assets/bfba9874-c050-47d7-90da-b954ecfb3330" />
-
-
 <img width="337" alt="Screenshot 2025-03-07 at 3 33 17 AM" src="https://github.com/user-attachments/assets/249eb20e-095c-434f-b9e3-8ee7ed897eb9" />
